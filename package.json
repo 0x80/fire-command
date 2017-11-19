@@ -1,6 +1,6 @@
 {
   "name": "fire-command",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A command response pattern for Firebase",
   "main": "dist/index.js",
   "scripts": {
