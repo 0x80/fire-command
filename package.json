@@ -1,0 +1,19 @@
+{
+  "name": "fire-command",
+  "version": "0.0.0",
+  "description": "A command response pattern for Firebase",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x80/fire-command.git"
+  },
+  "author": "Thijs Koerselman <thijskoerselman@gmail.com> (http://vauxlab.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x80/fire-command/issues"
+  },
+  "homepage": "https://github.com/0x80/fire-command#readme"
+}
